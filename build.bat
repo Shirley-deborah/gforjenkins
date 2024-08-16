@@ -1,0 +1,3 @@
+@echo off
+echo Building application...
+echo This is a simulated JAR file > application.jar
