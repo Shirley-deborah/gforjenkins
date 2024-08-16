@@ -1,0 +1,1 @@
+-e "#!/bin/bash\necho \"Building application...\"\ntouch application.jar" 
